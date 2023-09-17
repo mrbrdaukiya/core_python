@@ -1,0 +1,5 @@
+print("hello guru how              are you...???")
+print()
+print('hello guru how are you...???')
+print("hello", "guru", "how are you...???")
+print(type(101)                                                                                ,"abv")
